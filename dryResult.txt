@@ -1,0 +1,24 @@
+*********** RESULT OF 4-WAY ASSOCIATIVITY UNIFIED CACHE WITH BLOCKSIZE 32 ***********
+Total miss = 5813
+Total hit = 3994187
+Total fetches = 4000000
+Hit rate = 99.85468
+Miss rate = 0.14532
+*********** RESULT OF 4-WAY ASSOCIATIVITY UNIFIED CACHE WITH BLOCKSIZE 128 ***********
+Total miss = 2059
+Total hit = 3997941
+Total fetches = 4000000
+Hit rate = 99.94852
+Miss rate = 0.05148
+*********** RESULT OF 4-WAY ASSOCIATIVITY UNIFIED CACHE WITH BLOCKSIZE 32 ***********
+Total miss = 5469
+Total hit = 3994531
+Total fetches = 4000000
+Hit rate = 99.86327
+Miss rate = 0.13672
+*********** RESULT OF 4-WAY ASSOCIATIVITY UNIFIED CACHE WITH BLOCKSIZE 128 ***********
+Total miss = 1696
+Total hit = 3998304
+Total fetches = 4000000
+Hit rate = 99.95760
+Miss rate = 0.04240
